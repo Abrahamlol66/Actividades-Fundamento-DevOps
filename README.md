@@ -24,5 +24,9 @@ Manejo de entradas, validaciones y estructuras de control.
 Uso de listas, funciones y lógica de negocio.
 *   **[Calificaciones.py](file:///c:/Users/abrah/Documents/GitHub/Proyectos-Escolares/Clase 03/Calificaciones.py)**: Sistema de gestión de calificaciones escolares. Permite ingresar múltiples materias con sus respectivos periodos, calcular promedios y determinar si el alumno aprobó o reprobó.
 
+### 📂 Clase 04
+Interfaces gráficas (GUI) y aplicaciones complejas.
+*   **[Banco.py](file:///c:/Users/abrah/Documents/GitHub/Proyectos-Escolares/Clase 04/Banco.py)**: Simulador de cajero automático (ATM) profesional con interfaz gráfica desarrollada en `tkinter`. Incluye gestión de usuarios, depósitos, retiros y un diseño visual moderno inspirado en terminales bancarias.
+
 ---
 *Este repositorio sirve como bitácora de aprendizaje y práctica de programación.*
