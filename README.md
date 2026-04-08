@@ -1,32 +1,30 @@
-# Proyectos Escolares
+# Proyectos Escolares - Fundamentos de DevOps
 
-Este repositorio contiene una colección de programas y actividades desarrollados en Python como parte de un curso escolar. Los archivos están organizados por clases y actividades específicas.
+¡Bienvenido a este repositorio de aprendizaje! Aquí encontrarás una colección de programas y actividades desarrollados en Python, organizados de manera que puedas seguir el progreso desde los conceptos más básicos hasta aplicaciones más avanzadas y herramientas de DevOps.
 
-## Estructura del Proyecto
+Este repositorio sirve como una bitácora de práctica, donde cada carpeta representa un paso adelante en el dominio de la programación y la infraestructura.
 
-A continuación se detalla el contenido de cada carpeta y la función de los códigos incluidos:
+## 🚀 Guía de Exploración
 
-### 📂 Actividades
-Programas prácticos y ejercicios complementarios.
-*   **[Traductor.py](file:///c:/Users/abrah/Documents/GitHub/Proyectos-Escolares/Actividades/Traductor.py)**: Un traductor multilenguaje que utiliza la librería `deep_translator`. Permite traducir textos cortos entre español, inglés, francés y alemán.
+Para entender mejor cómo funciona cada programa, te recomendamos explorar las carpetas una por una. Dentro de cada una encontrarás un archivo `readme.md` detallado con instrucciones específicas y explicaciones del código.
 
-### 📂 Clase 01
-Introducción a los conceptos básicos de Python.
-*   **[Calculadora.py](file:///c:/Users/abrah/Documents/GitHub/Proyectos-Escolares/Clase 01/Calculadora.py)**: Implementa operaciones aritméticas básicas (suma, resta, multiplicación, división, exponente y cuadrado) utilizando la librería `math`.
-*   **[IMC.py](file:///c:/Users/abrah/Documents/GitHub/Proyectos-Escolares/Clase 01/IMC.py)**: Calcula el Índice de Masa Corporal (IMC) a partir del peso y la altura proporcionados por el usuario.
-*   **[Sumas2V.py](file:///c:/Users/abrah/Documents/GitHub/Proyectos-Escolares/Clase 01/Sumas2V.py)**: Programa sencillo que realiza la suma de dos variables ingresadas desde el teclado.
+### 📂 [Actividades](file:///c:/Users/abrah/Documents/GitHub/Actividades-Fundamento-DevOps/Actividades)
+Aquí encontrarás ejercicios prácticos adicionales para reforzar el uso de librerías externas y lógica aplicada, como un traductor multilenguaje.
 
-### 📂 Clase 02
-Manejo de entradas, validaciones y estructuras de control.
-*   **[Formulario.py](file:///c:/Users/abrah/Documents/GitHub/Proyectos-Escolares/Clase 02/Formulario.py)**: Programa interactivo que solicita datos personales (edad, sexo, nombre, estatura), realiza validaciones básicas y muestra la información a través de un menú de opciones.
+### 📂 [Clase 01](file:///c:/Users/abrah/Documents/GitHub/Actividades-Fundamento-DevOps/Clase 01)
+**Los Primeros Pasos**: Introducción a la sintaxis de Python, variables y operaciones matemáticas esenciales (calculadoras y fórmulas sencillas).
 
-### 📂 Clase 03
-Uso de listas, funciones y lógica de negocio.
-*   **[Calificaciones.py](file:///c:/Users/abrah/Documents/GitHub/Proyectos-Escolares/Clase 03/Calificaciones.py)**: Sistema de gestión de calificaciones escolares. Permite ingresar múltiples materias con sus respectivos periodos, calcular promedios y determinar si el alumno aprobó o reprobó.
+### 📂 [Clase 02](file:///c:/Users/abrah/Documents/GitHub/Actividades-Fundamento-DevOps/Clase 02)
+**Interactividad**: Aprendemos a comunicarnos con el usuario, validar la información que ingresa y organizar los datos en menús interactivos.
 
-### 📂 Clase 04
-Interfaces gráficas (GUI) y aplicaciones complejas.
-*   **[Banco.py](file:///c:/Users/abrah/Documents/GitHub/Proyectos-Escolares/Clase 04/Banco.py)**: Simulador de cajero automático (ATM) profesional con interfaz gráfica desarrollada en `tkinter`. Incluye gestión de usuarios, depósitos, retiros y un diseño visual moderno inspirado en terminales bancarias.
+### 📂 [Clase 03](file:///c:/Users/abrah/Documents/GitHub/Actividades-Fundamento-DevOps/Clase 03)
+**Lógica y Datos**: Uso de listas y funciones para crear sistemas de gestión más complejos, como un administrador de calificaciones escolares.
+
+### 📂 [Clase 04](file:///c:/Users/abrah/Documents/GitHub/Actividades-Fundamento-DevOps/Clase 04)
+**Interfaces Gráficas**: Salimos de la consola para crear aplicaciones con ventanas, botones y diseños modernos utilizando la librería `tkinter`.
+
+### 📂 [Clase 05](file:///c:/Users/abrah/Documents/GitHub/Actividades-Fundamento-DevOps/Clase 05)
+**Contenedores con Docker**: El salto al mundo de DevOps. Aquí aprenderás cómo empaquetar tus aplicaciones para que funcionen en cualquier entorno de forma aislada.
 
 ---
-*Este repositorio sirve como bitácora de aprendizaje y práctica de programación.*
+*Explora cada carpeta para descubrir el código fuente, los detalles técnicos y los pasos para ejecutar cada proyecto.*
