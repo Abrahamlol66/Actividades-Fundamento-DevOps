@@ -23,7 +23,7 @@ Aquí encontrarás ejercicios prácticos adicionales para reforzar el uso de lib
 ### 📂 [Clase 04](https://github.com/Abrahamlol66/Actividades-Fundamento-DevOps/tree/main/Clase%2004)
 **Interfaces Gráficas**: Salimos de la consola para crear aplicaciones con ventanas, botones y diseños modernos utilizando la librería `tkinter`.
 
-### 📂 [Clase 05] (https://github.com/Abrahamlol66/Actividades-Fundamento-DevOps/tree/main/Clase%2005)
+### 📂 [Clase 05](https://github.com/Abrahamlol66/Actividades-Fundamento-DevOps/tree/main/Clase%2005)
 **Contenedores con Docker**: El salto al mundo de DevOps. Aquí aprenderás cómo empaquetar tus aplicaciones para que funcionen en cualquier entorno de forma aislada.
 
 ---
