@@ -1,0 +1,6 @@
+services:
+  clase05:
+    image: clase05
+    build:
+      context: .
+      dockerfile: ./Dockerfile
