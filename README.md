@@ -8,22 +8,22 @@ Este repositorio sirve como una bitácora de práctica, donde cada carpeta repre
 
 Para entender mejor cómo funciona cada programa, te recomendamos explorar las carpetas una por una. Dentro de cada una encontrarás un archivo `readme.md` detallado con instrucciones específicas y explicaciones del código.
 
-### 📂 [Actividades](file:///c:/Users/abrah/Documents/GitHub/Actividades-Fundamento-DevOps/Actividades)
+### 📂 [Actividades](https://github.com/Abrahamlol66/Actividades-Fundamento-DevOps/tree/main/Actividades)
 Aquí encontrarás ejercicios prácticos adicionales para reforzar el uso de librerías externas y lógica aplicada, como un traductor multilenguaje.
 
-### 📂 [Clase 01](file:///c:/Users/abrah/Documents/GitHub/Actividades-Fundamento-DevOps/Clase 01)
+### 📂 [Clase 01](https://github.com/Abrahamlol66/Actividades-Fundamento-DevOps/tree/main/Clase%2001)
 **Los Primeros Pasos**: Introducción a la sintaxis de Python, variables y operaciones matemáticas esenciales (calculadoras y fórmulas sencillas).
 
-### 📂 [Clase 02](file:///c:/Users/abrah/Documents/GitHub/Actividades-Fundamento-DevOps/Clase 02)
+### 📂 [Clase 02](https://github.com/Abrahamlol66/Actividades-Fundamento-DevOps/tree/main/Clase%2002)
 **Interactividad**: Aprendemos a comunicarnos con el usuario, validar la información que ingresa y organizar los datos en menús interactivos.
 
-### 📂 [Clase 03](file:///c:/Users/abrah/Documents/GitHub/Actividades-Fundamento-DevOps/Clase 03)
+### 📂 [Clase 03](https://github.com/Abrahamlol66/Actividades-Fundamento-DevOps/tree/main/Clase%2003)
 **Lógica y Datos**: Uso de listas y funciones para crear sistemas de gestión más complejos, como un administrador de calificaciones escolares.
 
-### 📂 [Clase 04](file:///c:/Users/abrah/Documents/GitHub/Actividades-Fundamento-DevOps/Clase 04)
+### 📂 [Clase 04](https://github.com/Abrahamlol66/Actividades-Fundamento-DevOps/tree/main/Clase%2004)
 **Interfaces Gráficas**: Salimos de la consola para crear aplicaciones con ventanas, botones y diseños modernos utilizando la librería `tkinter`.
 
-### 📂 [Clase 05](file:///c:/Users/abrah/Documents/GitHub/Actividades-Fundamento-DevOps/Clase 05)
+### 📂 [Clase 05] (https://github.com/Abrahamlol66/Actividades-Fundamento-DevOps/tree/main/Clase%2005)
 **Contenedores con Docker**: El salto al mundo de DevOps. Aquí aprenderás cómo empaquetar tus aplicaciones para que funcionen en cualquier entorno de forma aislada.
 
 ---
